@@ -1,3 +1,6 @@
 # 30-days-of-data-sceince
-## Every day I will get a new dateset to work on it for 30 days (New Habit) 
-## Start day : 27-11-2021
+
+### Day3 : Dr. Semmelweis and the Discovery of Handwashing
+Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
+<br>
+In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
